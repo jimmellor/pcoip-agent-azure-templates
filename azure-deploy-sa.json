@@ -67,7 +67,7 @@
             "value": "Standard"
           },
           "vmSize": {
-            "value": "Standard_D2_v2"
+            "value": "Standard_F4S"
           },
           "registrationCode": {
             "value": "[parameters('registrationCode')]"
